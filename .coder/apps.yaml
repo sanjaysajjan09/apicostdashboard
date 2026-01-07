@@ -1,0 +1,14 @@
+apps:
+  - name: "Next.js App"
+    url: "http://localhost:3000"
+    icon: "https://nextjs.org/static/favicon/favicon-32x32.png"
+    subdomain: false
+    port: 3000
+    description: "TechOps Dashboard - Next.js Application"
+  
+  - name: "Python API Server"
+    url: "http://localhost:5001"
+    icon: "https://www.python.org/static/favicon.ico"
+    subdomain: false
+    port: 5001
+    description: "Flask API Server for Snowflake queries"
